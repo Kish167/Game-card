@@ -1,0 +1,106 @@
+/*!*****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/style.css ***!
+  \*****************************************************************/
+.app{  
+  background-color: #004980 ;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box{
+    width: 480px;
+    height: 459px;
+    background: #C2F5FF
+    
+}
+
+.title{
+    
+    padding-top: 52px;
+    font-family: 'StratosSkyeng';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #004980;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.choose{
+    margin-left: 69px;
+    margin-top: 48px;
+    width: 98px;
+    height: 98px;
+    left: 585px;
+    top: 354px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    font-family: 'StratosSkyeng';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    color: #004980;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.choose2{
+    margin-left: 193px;
+    margin-top: 48px;
+    width: 98px;
+    height: 98px;
+    left: 585px;
+    top: 354px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    font-family: 'StratosSkyeng';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    color: #004980;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.choose3{
+    margin-left: 313px;
+    margin-top: 48px;
+    width: 98px;
+    height: 98px;
+    left: 585px;
+    top: 354px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    font-family: 'StratosSkyeng';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    color: #004980;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button{
+    margin-top: 97px;
+    margin-left: 117px;
+    width: 246px;
+    height: 50px;
+    left: 389px;
+    top: 519px;   
+    background: #7AC100;
+    border-radius: 12px;
+}
+
+/*# sourceMappingURL=main.css.map*/
